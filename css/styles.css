@@ -1,0 +1,93 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+/* Header */
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-menu-list {
+}
+.header-menu-item {
+}
+
+/* Address */
+.address {
+}
+.address-menu-list {
+}
+.address-menu-item {
+}
+
+/* Hero Section */
+.hero {
+}
+.hero-title {
+}
+.hero-button {
+}
+
+/* Visually Hidden */
+.visually-hidden {
+}
+
+/* Features */
+.visually-features {
+}
+.visually-features-item {
+}
+.features-subtitle {
+}
+.features-item-tex {
+}
+
+/* Team */
+.team {
+}
+.our-team {
+}
+.team-list {
+}
+.team-list-item {
+}
+.team-image {
+}
+.team-member {
+}
+.team-text {
+}
+
+/* Portfolio */
+.portfolio {
+}
+.title-portfolio {
+}
+.subtitle-portfolio {
+}
+.info-portfolio {
+}
+.caption-portfolio {
+}
+.desc-caption-portfolio {
+}
+
+/* Footer */
+.footer {
+}
+.footer-title {
+}
+.footer-text {
+}
