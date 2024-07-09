@@ -64,13 +64,12 @@ a {
   font-size: 56px;
   line-height: 107%;
   letter-spacing: 0.02em;
-  text-align: center;
+
   color: #fff;
 }
 
 .hero {
   background: #2e2f42;
-  text-align: center;
 }
 
 .hero-button {
@@ -79,7 +78,7 @@ a {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.04em;
-  text-align: center;
+
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
@@ -118,7 +117,7 @@ a {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
-  text-align: center;
+
   color: #2e2f42;
   text-transform: capitalize;
 }
@@ -163,21 +162,9 @@ a {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
-  text-align: center;
+
   text-transform: capitalize;
   color: #2e2f42;
-}
-
-.subtitle-portfolio {
-}
-
-.info-portfolio {
-  text-align: center;
-}
-
-.portfolio-img {
-  width: 360px;
-  height: 300px;
 }
 
 .caption-portfolio {
@@ -201,7 +188,6 @@ a {
 .page-footer {
   background: #2e2f42;
   color: #f4f4fd;
-  text-align: center;
 }
 
 .footer-text {
