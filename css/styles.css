@@ -122,6 +122,9 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.team {
+  background-color: #f4f4fd;
+}
 
 .our-team {
   font-family: "Roboto", sans-serif;
@@ -132,6 +135,7 @@ a {
   text-align: center;
   color: #2e2f42;
   margin-top: 60px;
+  text-transform: capitalize;
 }
 
 .team-list {
@@ -182,6 +186,7 @@ a {
   text-align: center;
   color: #2e2f42;
   margin-top: 60px;
+  text-transform: capitalize;
 }
 
 .subtitle-portfolio {
@@ -189,6 +194,7 @@ a {
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 20px;
+  background-color: #ffffff;
 }
 
 .info-portfolio {
