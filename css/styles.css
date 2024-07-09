@@ -2,13 +2,11 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
-
 }
 
 ul,
 ol {
   list-style-type: none;
-
 }
 
 a {
@@ -34,8 +32,8 @@ a {
   color: #f4f4fd;
 }
 
-.nav-link {
-  font-weight: 500;
+.nav-link,
+.contacts-link {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -47,17 +45,6 @@ a {
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
-}
-
-.contacts {
-  font-style: normal;
-}
-
-.contacts-link {
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .hero-title {
@@ -104,7 +91,6 @@ a {
 }
 
 .features-subtitle {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -112,9 +98,7 @@ a {
   color: #2e2f42;
 }
 
-.features-item-tex {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
+.features-item-text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -126,7 +110,6 @@ a {
 }
 
 .our-team {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -152,15 +135,13 @@ a {
 }
 
 .team-img {
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
+  border-radius: 4px;
   width: 264px;
   height: 260px;
 }
 
-.team-member {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
+.team-member,
+.team-text {
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
@@ -169,17 +150,10 @@ a {
 }
 
 .team-text {
-  font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #434455;
 }
 
 .title-portfolio {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -203,14 +177,12 @@ a {
 }
 
 .portfolio-img {
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
+  border-radius: 4px;
   width: 360px;
   height: 300px;
 }
 
 .caption-portfolio {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -219,8 +191,6 @@ a {
 }
 
 .desc-caption-portfolio {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
