@@ -149,6 +149,7 @@ a {
 .team-list-item {
   margin-bottom: 40px;
   text-align: center;
+  background-color: #ffffff;
 }
 
 .team-img {
@@ -195,7 +196,6 @@ a {
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 20px;
-  background-color: #ffffff;
 }
 
 .info-portfolio {
