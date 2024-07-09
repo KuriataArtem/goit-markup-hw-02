@@ -143,6 +143,7 @@ a {
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 20px;
+  background-color: #ffffff;
 }
 
 .team-list-item {
